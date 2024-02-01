@@ -8,11 +8,11 @@ ArtifactsFinderIVS.py can find IVS (inverted repeat sequences) artifacts, Artifa
 ### Manual
 
 **Dependencies:**
-*python3
-*pyfasta
-*pysam
-*collections
-*line_profiler
+* python3
+* pyfasta
+* pysam
+* collections
+* line_profiler
 
 
 
