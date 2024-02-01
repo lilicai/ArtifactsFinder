@@ -30,12 +30,12 @@ Note : The genome is the hg19 or hg38 sequences. The bed is in 0-base format. If
 
 **IVS blacklist**
 ```
-An example of a IVS blacklist can be viewed here: ([`${bed}.out`]([ArtifactsFinder/example/${bed}.out])).
+An example of a IVS blacklist can be viewed here: ([`${bed}.out`](ArtifactsFinder/example/${bed}.out)).
 ```
 
 **PS blacklist**
 ```
-An example of a PS blacklist can be viewed here: ([`out.backlist.txt`]([ArtifactsFinder/example/out.backlist.txt])).
+An example of a PS blacklist can be viewed here: ([`out.backlist.txt`](ArtifactsFinder/example/${bed}out.backlist.txt)).
 ```
 Note : 
 
