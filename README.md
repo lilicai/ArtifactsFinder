@@ -29,14 +29,14 @@ Note : The genome is the hg19 or hg38 sequences. The bed is in 0-base format. If
 
 
 **IVS blacklist**
-
+```
 An example of a IVS blacklist can be viewed here: ([`${bed}.out`]([ArtifactsFinder/example/${bed}.out])).
-
+```
 
 **PS blacklist**
-
+```
 An example of a PS blacklist can be viewed here: ([`out.backlist.txt`]([ArtifactsFinder/example/out.backlist.txt])).
-
+```
 Note : 
 
 If you want to eliminate the artifacts caused by palindromic structures, you can use ArtifactsFinder to generate a blacklist of noisy sites in regions of interest. This blacklist can be incorporated into the bioinformatics pipeline to filter the results of variant detection, thereby removing the artificial traces in the specified regions.
