@@ -46,7 +46,7 @@ An example of a BED File can be viewed here: ([`test.bed`](ArtifactsFinder/examp
 
 **IVS blacklist**
 ```
-An example of a IVS blacklist can be viewed here: ([`${bed}.out`](ArtifactsFinder/example/test.bed.out)).
+An example of a IVS blacklist can be viewed here: ([`test.bed.out`](ArtifactsFinder/example/test.bed.out)).
 ```
 
 **PS blacklist**
